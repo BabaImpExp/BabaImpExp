@@ -11,3 +11,5 @@
 .hii:hover {
     transform:scale(0.96,0.96); 
   }
+  .dropdown-content a:hover {background-color: #ddd;}
+
