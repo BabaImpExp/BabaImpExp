@@ -749,9 +749,8 @@ font-size: 17px;
 }
 
 #FurPdf {
-  background-color: #f44336;
   color: Orange;
-  padding: 15px 25px;
+  padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
