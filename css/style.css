@@ -750,11 +750,9 @@ font-size: 17px;
 
 #FurPdf {
   background-color: #ffffe0;
-  padding: 15px 25px;
-  text-align: center;
-  color:#ff9933;
   padding: 10px 20px;
   text-align: center;
+  color:#ff9933;
   text-decoration: none;
   display: inline-block;
   float:left
