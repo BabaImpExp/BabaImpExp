@@ -52,6 +52,21 @@ a {
      transition: all .3s ease-in-out;
 }
 
+<style>
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+</style>
+
 h1,
 h2,
 h3,
