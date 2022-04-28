@@ -52,16 +52,8 @@ a {
      transition: all .3s ease-in-out;
 }
 
-<style>
-a:FurPdf {
-  background-color: #f44336;
-  color: white;
-  padding: 15px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-</style>
+
+
 
 h1,
 h2,
@@ -754,4 +746,13 @@ font-size: 17px;
     font-size: 30px;
     color: #091e30;
     border-radius: 100%;
+}
+
+#FurPdf {
+  background-color: #f44336;
+  color: Orange;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
